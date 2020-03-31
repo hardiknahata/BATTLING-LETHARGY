@@ -16,7 +16,7 @@ We have successfully accomplished the working prototype of our intention, along 
 What we learned
 We have explored the realms of computer vision and realized how the similar thought-process can be extended to other use-cases which could be very fruitful.
 
-What's next for BATTLING LETHARGY & DISTRACTION DURING COMMUTE
+What's next for Drowsiness Detection During Commute
 We plan to deploy the complete prototype on a single-board computer like ORDOID XU4 and make a portable and commercially viable product.
 
 Built With
